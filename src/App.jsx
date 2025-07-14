@@ -8,6 +8,54 @@ const mockData = [
       { name: "Home Depot", price: 38.49, location: "Lévis" },
       { name: "RONA", price: 37.0, location: "Beauport" }
     ]
+  },
+  {
+    name: "2x4",
+    vendors: [
+      { name: "Canac", price: 5.25, location: "Québec" },
+      { name: "Home Depot", price: 5.49, location: "Lévis" },
+      { name: "RONA", price: 5.35, location: "Beauport" }
+    ]
+  },
+  {
+    name: "Gypse standard",
+    vendors: [
+      { name: "Canac", price: 14.99, location: "Québec" },
+      { name: "Home Depot", price: 15.49, location: "Lévis" },
+      { name: "RONA", price: 14.75, location: "Beauport" }
+    ]
+  },
+  {
+    name: "Boîte de vis à bois",
+    vendors: [
+      { name: "Canac", price: 8.95, location: "Québec" },
+      { name: "Home Depot", price: 9.49, location: "Lévis" },
+      { name: "RONA", price: 9.25, location: "Beauport" }
+    ]
+  },
+  {
+    name: "Isolant laine minérale",
+    vendors: [
+      { name: "Canac", price: 46.99, location: "Québec" },
+      { name: "Home Depot", price: 48.75, location: "Lévis" },
+      { name: "RONA", price: 47.50, location: "Beauport" }
+    ]
+  },
+  {
+    name: "Bardeaux d'asphalte",
+    vendors: [
+      { name: "Canac", price: 32.00, location: "Québec" },
+      { name: "Home Depot", price: 33.45, location: "Lévis" },
+      { name: "RONA", price: 31.80, location: "Beauport" }
+    ]
+  },
+  {
+    name: "Sacs de ciment",
+    vendors: [
+      { name: "Canac", price: 8.25, location: "Québec" },
+      { name: "Home Depot", price: 8.75, location: "Lévis" },
+      { name: "RONA", price: 8.50, location: "Beauport" }
+    ]
   }
 ]
 
